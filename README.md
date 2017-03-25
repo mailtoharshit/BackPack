@@ -24,7 +24,7 @@ Clone this code and follow these instructions
 - `npm start`
 - Visit [http://localhost:3000/](http://localhost:3000/)
 
-<img align="center" src="assets/images/npm start.gif"></img>
+<!--<img align="center" src="assets/images/npm start.gif"></img>-->
 
 
 
