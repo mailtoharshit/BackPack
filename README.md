@@ -1,6 +1,6 @@
 
 
-<img align="center" src="backpack_assets/images/backpack.png"></img>
+<img align="center" src="assets/images/backpack.png"></img>
 
 # BackPack: Boilerplate Template for Webpack2 and Heroku
 
@@ -12,6 +12,8 @@ Few things to remember that :
 
  - This boilerplate use [HMR](https://webpack.js.org/concepts/hot-module-replacement/) and it is cool.
 
+<img align="center" src="assets/images/webpack.gif"></img>
+
 ## How to get started ?
 
 Clone this code and follow these instructions
@@ -20,12 +22,20 @@ Clone this code and follow these instructions
 - `npm start`
 - Visit [http://localhost:3000/](http://localhost:3000/)
 
+<img align="center" src="assets/images/npm start.gif"></img>
+
+
+
 ## Deploy
 
 First, you'll need a heroku account.
 
-- In Heroku, create a new app, eithe
+- In Heroku, create a new app
 - Add a new buildpack, select `heroku/nodejs`. This should set you up to automatically run `npm install` which is what you'll need to get up and running.
+
+<img align="center" src="assets/images/heroku buildpack.gif"></img>
+
+
 - Follow the instructions to [link to your repository](https://devcenter.heroku.com/articles/git).
 - `git push heroku master` - Assuming you've set everything up correctly, this will deploy your app, and run the postinstall script in `package.json`.
 
