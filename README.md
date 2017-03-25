@@ -1,4 +1,4 @@
-![](images/backpack.png)
+![](backpack_assets/images/backpack.png)
 <!--<img width="21" height="21" src="images/architecture.png" /> -->
 
 # Webpack2/Express/Heroku Starter
