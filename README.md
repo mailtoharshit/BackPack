@@ -41,17 +41,17 @@ First, you'll need a heroku account.
 <img align="center" src="assets/images/heroku buildpack.gif"></img>
 
 
-
+<br/>
 - Follow the instructions to [link to your repository](https://devcenter.heroku.com/articles/git).
 
-
+<br/>
 <img align="center" src="assets/images/herokuremote.gif"></img>
 
-
+<br/>
 
 - `git push heroku master` - Assuming you've set everything up correctly, this will deploy your app, and run the postinstall script in `package.json`.
 
-
+<br/>
 <img align="center" src="assets/images/herokumaster.gif"></img>
 
 
