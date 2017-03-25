@@ -2,14 +2,19 @@
 
 <img align="center" src="backpack_assets/images/backpack.png"></img>
 
-# Webpack2/Express/Heroku Starter
+# BackPack: Boilerplate Template for Webpack2 and Heroku
 
-This is a very basic sample app to get you started using [Webpack 2](https://webpack.js.org/), [Express](http://expressjs.com/) and is setup to deploy to [Heroku](https://www.heroku.com/).
+[Webpack 2](https://webpack.js.org/) is super cool, I wrote a sample boiler code that you can reuse to spin a [Express](http://expressjs.com/) application and setup to deploy to [Heroku](https://www.heroku.com/) instantly.
 
-- It **does not** use React, Angular, or any other front-end framework. Pick your own when you're ready.
-- It **does** use [HMR](https://webpack.js.org/concepts/hot-module-replacement/). Cause this is magical.
+Few things to remember that :
 
-## Setup
+ - **No Fancy** framework or platform are used here, this is clear naked/raw boilerplate, and I'll let you decide to pick your faviorte framework on top of this.
+
+ - This boilerplate use [HMR](https://webpack.js.org/concepts/hot-module-replacement/) and it is cool.
+
+## How to get started ?
+
+Clone this code and follow these instructions
 
 - `npm i`
 - `npm start`
@@ -19,7 +24,7 @@ This is a very basic sample app to get you started using [Webpack 2](https://web
 
 First, you'll need a heroku account.
 
-- In Heroku, create a new app.
+- In Heroku, create a new app, eithe
 - Add a new buildpack, select `heroku/nodejs`. This should set you up to automatically run `npm install` which is what you'll need to get up and running.
 - Follow the instructions to [link to your repository](https://devcenter.heroku.com/articles/git).
 - `git push heroku master` - Assuming you've set everything up correctly, this will deploy your app, and run the postinstall script in `package.json`.
