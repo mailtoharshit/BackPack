@@ -1,3 +1,6 @@
+![](images/backpack.png)
+<!--<img width="21" height="21" src="images/architecture.png" /> -->
+
 # Webpack2/Express/Heroku Starter
 
 This is a very basic sample app to get you started using [Webpack 2](https://webpack.js.org/), [Express](http://expressjs.com/) and is setup to deploy to [Heroku](https://www.heroku.com/).
