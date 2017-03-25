@@ -1,7 +1,6 @@
-<p align="center">
-![](backpack_assets/images/backpack.png)
-</p>
-<!--<img width="21" height="21" src="images/architecture.png" /> -->
+
+
+<img align="center" src="backpack_assets/images/backpack.png"></img>
 
 # Webpack2/Express/Heroku Starter
 
