@@ -1,0 +1,11 @@
+dist
+node_modules
+npm-debug.log
+.DS_Store
+
+//Remove vscode files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
