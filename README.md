@@ -42,7 +42,8 @@ First, you'll need a heroku account.
 
 
 <br/>
-- Follow the instructions to [link to your repository](https://devcenter.heroku.com/articles/git).
+
+- Follow the instructions to [link your repository](https://devcenter.heroku.com/articles/git)
 
 <!--<br/>
 <img align="center" src="assets/images/herokuremote.gif"></img>
