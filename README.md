@@ -1,6 +1,8 @@
 
+<p align="center">
+ <img align="center" src="assets/images/backpack.png"></img>
+</p>
 
-<img align="center" src="assets/images/backpack.png"></img>
 
 # BackPack: Boilerplate Template for Webpack2 and Heroku
 
