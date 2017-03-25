@@ -50,7 +50,7 @@ First, you'll need a heroku account.
 - `git push heroku master` - Assuming you've set everything up correctly, this will deploy your app, and run the postinstall script in `package.json`.
 
 
-<img align="center" src="assets/images/heroku buildpack.gif"></img>
+<img align="center" src="assets/images/herokumaster.gif"></img>
 
 
 
